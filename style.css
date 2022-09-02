@@ -1,0 +1,52 @@
+#section1{
+   padding: 20px 32px;
+}
+
+
+.row{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+.logo{
+    width: 50px;
+    
+}
+.nav__links{
+   display: flex;
+
+   
+}
+.nav__link{
+   margin: 24px 24px;
+   
+  
+}
+a{
+    text-decoration: none;
+    
+}
+.btn{
+  
+    background-color: #6415ff;
+    color: white;
+    border-radius: 40px;
+    border: 0;
+    padding: 12px 32px;
+    font-size: 17px;
+    width: 150px;
+    height: 100%
+
+}
+
+
+
+
+
+
