@@ -1,8 +1,9 @@
-#section1{
-   padding: 20px 32px;
+
+
+
+.section{
+    padding: 30px;
 }
-
-
 .row{
     width: 100%;
     max-width: 1200px;
@@ -18,19 +19,38 @@
     width: 50px;
     
 }
+.Sign__up--button{
+    background-color: #6415ff;
+    padding: 12px 32px;
+    border-radius: 20px;
+
+}
+.white{
+    color: white;
+}
+
+
 .nav__links{
    display: flex;
-
+   margin: 24px;
    
 }
+
+
 .nav__link{
-   margin: 24px 24px;
-   
+
+    padding: 12px 32px;
+   color: #243e63;
   
 }
 a{
     text-decoration: none;
-    
+}
+a:hover{
+    text-decoration: underline;
+    transition: calc(1.5);
+    opacity: 1;
+    color: #6415ff;
 }
 .btn{
   
@@ -38,15 +58,88 @@ a{
     color: white;
     border-radius: 40px;
     border: 0;
-    padding: 12px 32px;
-    font-size: 17px;
-    width: 150px;
-    height: 100%
+    padding: 16px 0px;
+    margin: 8px 8px 8px 20px;
+    font-size: 13px;
+    width: 120px;
+    
+    
+
+}
+.purple{
+    color: #6415ff;
+}
+
+.container{
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 50px;
 
 }
 
+.container__left{
+    width: 40%;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+.img__container{
+    width: 60%;
+}
+.img__front{
+    width: 100%;
+}
+.img__front2{
+    width: 80%;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.para_trusted{
+    margin-top: 60px;
+    font-size: small;
+    color: #a0aec0
+}
 
+input{
+    max-width: 100%;
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: 500;
+    border: solid white;
+    overflow: auto;
+    
+    
+    
+}
 
+.email__section{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    position: relative;
+    border-width: 10px;
+    color: #a0aec0;
+    border: solid #a0aec0; 
+    border-radius: 9999px;
+    border-width: 2px;
+    padding-left: 10px;
 
+}
+.features__section{
+    width: 100%;
+    max-width: 600px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.tital_features{
+    
+    font-size: 48px;
+}
+.para__features{
+
+}
 
 
