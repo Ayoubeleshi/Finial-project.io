@@ -68,7 +68,7 @@ a:hover{
     border-radius: 40px;
     border: 0;
     padding: 16px 0px;
-    margin: 8px 8px 8px 20px;
+    
     font-size: 13px;
     width: 120px;
     
@@ -125,6 +125,9 @@ input{
     border-radius: 999px;
     border-width: 2px;
     padding-left: 30px;
+    padding-top: 4px;
+    padding-right: 4px;
+    padding-bottom: 4px;
 
 
 }
@@ -201,3 +204,141 @@ input{
     height: fit-content;
     
 }
+
+/* section 2 */
+
+.container__left{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-right: 30px;
+}
+.container2{
+    display: flex;
+    margin: 0px 29.5px;
+    padding: 96px 0px;
+}
+.img__2{
+    width: 50%;
+    border: solid lightgray;
+}
+h5{
+    font-size: 15px;
+    color: #6415ff;
+    margin: 0 ;
+}
+.h2__section2{
+    font-size: 42px;
+    margin-bottom: 0;
+    margin-top: 12px;
+}
+
+
+/*section 3*/
+
+.container3{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 29.5px;
+    padding: 96px 0px;
+    max-width: 100%;
+}
+
+.h2__section3{
+    width: 100%;
+    font-size: 48px;
+    margin-top: 5px;
+}
+
+.img__3{
+    max-width: 50%;
+    height: auto;
+    
+}
+
+.container__right{
+    max-width: 100%;
+    padding: 32px 0px;
+    margin-left: 30px;
+    
+ 
+}
+
+.number{
+    text-align: end;
+    color: #a0aec0;
+    font-size: 35px;
+    font-weight: bold;
+    
+   
+}
+h2{
+    margin: 0;
+
+}
+.heading_section{
+    margin: 0px 0px 0px 24px;
+}
+.headings{
+    display: flex;
+    align-items: flex-start;
+    margin: 32px 0px 0px;
+    max-width: 90%;
+    
+    
+}
+.heading__box{
+    flex-direction: row;
+    text-align: left;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0px;
+   
+
+}
+
+/*section 4*/
+h3{
+    margin: 0;
+}
+.img__4{
+    width: 50%;
+    
+}
+
+.box__container{
+    display: flex;
+    margin-bottom: 20px;
+
+}
+.box1{
+    margin: 32px 32px 0px 0px;
+    
+}
+.box2{
+    margin: 32px 0px 0px;
+
+}
+.box__wrapper{
+    display: flex;
+    
+    
+}
+.doller__sign{
+    background-color: greenyellow;
+    border-radius: 9999px;
+    padding: 3px;
+    margin-right: 5px;
+
+}
+.bag{
+    background-color: lightpink;
+    border-radius: 9999px;
+    padding: 3px;
+    margin-right: 5px;
+}
+
+/* section 5 */
+
+
