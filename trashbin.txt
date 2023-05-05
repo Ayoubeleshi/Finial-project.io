@@ -1,3 +1,258 @@
+ndividuals
+ 
+Basic
+ 
+ersonal
+ 
+ersonal
+ 
+2018
+ 
+Copyright c 2022 Ayoub Eleshi
+ 
+text-decoration: none;
+ 
+text-align: ;
+ 
+direction: ;
+ 
+olor: #6415ff;
+ 
+text-decoration: none;
+ 
+.FiveColumnWithBackground__Link-sc-1ra39yi-7 {
+   
+}
+.FiveColumnWithBackground__Column-sc-1ra39yi-3 {
+   he; 
+}
+ 
+padding-top: 20px;
+ 
+padding-top: 10p;
+ 
+idth: 100%;
+ 
+padding: 0px;
+ 
+jhcLjl
+ 
+ padding: 10px;
+    margin: 10px;
+ 
+webkit-padding-start: ;
+ 
+hihAEZ
+ 
+   align-items: center;
+    justify-content: center;
+ 
+
+    display: flex;
+ 
+.container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  
+}
+ 
+flex-wrap: wrap;
+ 
+display: flex;
+  
+ 
+width: 100%;
+ 
+text-decoration: none;
+    dec
+ 
+   width: 100%;
+ 
+align-self: ;
+ 
+background-color: #a0aec0;
+ 
+color: aliceblue;
+ 
+.FiveColumnWithBackground__FiveColumns-sc-1ra39yi-2 hgIwoE"><div class="FiveColumnWithBackground__Column-sc-1ra39yi-3 jhcLjl"><h5 class="FiveColumnWithBackground__ColumnHeading-sc-1ra39yi-4 kHMfVa">Main</h5><ul class="FiveColumnWithBackground__LinkList-sc-1ra39yi-5 kTXhVj"><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Blog</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">FAQs</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Support</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">About Us</a></li></ul></div><div class="FiveColumnWithBackground__Column-sc-1ra39yi-3 jhcLjl"><h5 class="FiveColumnWithBackground__ColumnHeading-sc-1ra39yi-4 kHMfVa">Product</h5><ul class="FiveColumnWithBackground__LinkList-sc-1ra39yi-5 kTXhVj"><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Log In</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Personal</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Business</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Team</a></li></ul></div><div class="FiveColumnWithBackground__Column-sc-1ra39yi-3 jhcLjl"><h5 class="FiveColumnWithBackground__ColumnHeading-sc-1ra39yi-4 kHMfVa">Press</h5><ul class="FiveColumnWithBackground__LinkList-sc-1ra39yi-5 kTXhVj"><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Logos</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Events</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Stories</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Office</a></li></ul></div><div class="FiveColumnWithBackground__Column-sc-1ra39yi-3 jhcLjl"><h5 class="FiveColumnWithBackground__ColumnHeading-sc-1ra39yi-4 kHMfVa">Team</h5><ul class="FiveColumnWithBackground__LinkList-sc-1ra39yi-5 kTXhVj"><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Career</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Founders</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Culture</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Onboarding</a></li></ul></div><div class="FiveColumnWithBackground__Column-sc-1ra39yi-3 jhcLjl"><h5 class="FiveColumnWithBackground__ColumnHeading-sc-1ra39yi-4 kHMfVa">Legal</h5><ul class="FiveColumnWithBackground__LinkList-sc-1ra39yi-5 kTXhVj"><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">GDPR</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Privacy Policy</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Terms of Service</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ
+ 
+   href="#">Support</a>
+ 
+<a class=" footer__links 
+                     link__hover-effect--white 
+                     link__hover-effect" href="https://github.com/Ayoubeleshi">GitHub</a>
+                     <a class=" footer__links link__hover-effect--white link__hover-effect" href="https://www.linkedin.com/in/ayoub-eleshi-8a801b1a3/">Linkedin</a>
+                     <a class=" footer__links link__hover-effect--white link__hover-effect" href="#" onclick="toggleModal()">Contact</a>
+                     <a class=" footer__links link__hover-effect--white link__hover-effect "
+ 
+  display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+  display: flex;
+    flex-direction: row;
+ 
+ display: flex;
+ 
+ display: flex;
+    flex-direction: row;
+    justify-content: center;
+ 
+             <div class="FiveColumnWithBackground__FiveColumns-sc-1ra39yi-2 hgIwoE"><div class="FiveColumnWithBackground__Column-sc-1ra39yi-3 jhcLjl"><h5 class="FiveColumnWithBackground__ColumnHeading-sc-1ra39yi-4 kHMfVa">Main</h5><ul class="FiveColumnWithBackground__LinkList-sc-1ra39yi-5 kTXhVj"><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Blog</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">FAQs</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Support</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">About Us</a></li></ul></div><div class="FiveColumnWithBackground__Column-sc-1ra39yi-3 jhcLjl"><h5 class="FiveColumnWithBackground__ColumnHeading-sc-1ra39yi-4 kHMfVa">Product</h5><ul class="FiveColumnWithBackground__LinkList-sc-1ra39yi-5 kTXhVj"><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Log In</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Personal</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Business</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Team</a></li></ul></div><div class="FiveColumnWithBackground__Column-sc-1ra39yi-3 jhcLjl"><h5 class="FiveColumnWithBackground__ColumnHeading-sc-1ra39yi-4 kHMfVa">Press</h5><ul class="FiveColumnWithBackground__LinkList-sc-1ra39yi-5 kTXhVj"><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Logos</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Events</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Stories</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Office</a></li></ul></div><div class="FiveColumnWithBackground__Column-sc-1ra39yi-3 jhcLjl"><h5 class="FiveColumnWithBackground__ColumnHeading-sc-1ra39yi-4 kHMfVa">Team</h5><ul class="FiveColumnWithBackground__LinkList-sc-1ra39yi-5 kTXhVj"><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Career</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Founders</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Culture</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Onboarding</a></li></ul></div><div class="FiveColumnWithBackground__Column-sc-1ra39yi-3 jhcLjl"><h5 class="FiveColumnWithBackground__ColumnHeading-sc-1ra39yi-4 kHMfVa">Legal</h5><ul class="FiveColumnWithBackground__LinkList-sc-1ra39yi-5 kTXhVj"><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">GDPR</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Privacy Policy</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Terms of Service</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Disclaimer</a></li></ul></div></div>
+
+ 
+                <div class="FiveColumnWithBackground__FiveColumns-sc-1ra39yi-2 hgIwoE"><div class="FiveColumnWithBackground__Column-sc-1ra39yi-3 jhcLjl"><h5 class="FiveColumnWithBackground__ColumnHeading-sc-1ra39yi-4 kHMfVa">Main</h5><ul class="FiveColumnWithBackground__LinkList-sc-1ra39yi-5 kTXhVj"><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Blog</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">FAQs</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Support</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">About Us</a></li></ul></div><div class="FiveColumnWithBackground__Column-sc-1ra39yi-3 jhcLjl"><h5 class="FiveColumnWithBackground__ColumnHeading-sc-1ra39yi-4 kHMfVa">Product</h5><ul class="FiveColumnWithBackground__LinkList-sc-1ra39yi-5 kTXhVj"><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Log In</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Personal</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Business</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Team</a></li></ul></div><div class="FiveColumnWithBackground__Column-sc-1ra39yi-3 jhcLjl"><h5 class="FiveColumnWithBackground__ColumnHeading-sc-1ra39yi-4 kHMfVa">Press</h5><ul class="FiveColumnWithBackground__LinkList-sc-1ra39yi-5 kTXhVj"><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Logos</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Events</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Stories</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Office</a></li></ul></div><div class="FiveColumnWithBackground__Column-sc-1ra39yi-3 jhcLjl"><h5 class="FiveColumnWithBackground__ColumnHeading-sc-1ra39yi-4 kHMfVa">Team</h5><ul class="FiveColumnWithBackground__LinkList-sc-1ra39yi-5 kTXhVj"><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Career</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Founders</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Culture</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Onboarding</a></li></ul></div><div class="FiveColumnWithBackground__Column-sc-1ra39yi-3 jhcLjl"><h5 class="FiveColumnWithBackground__ColumnHeading-sc-1ra39yi-4 kHMfVa">Legal</h5><ul class="FiveColumnWithBackground__LinkList-sc-1ra39yi-5 kTXhVj"><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">GDPR</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Privacy Policy</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Terms of Service</a></li><li class="FiveColumnWithBackground__LinkListItem-sc-1ra39yi-6 dVxpTx"><a href="#" class="FiveColumnWithBackground__Link-sc-1ra39yi-7 hihAEZ">Disclaimer</a></li></ul></div></div>
+
+ 
+Linkedin
+ 
+antique
+ 
+<footer class="footer">
+            <div class="container">
+                <div class="footer__row">
+            
+                   <div class="footer__links">
+                         <a class=" footer__links 
+                         link__hover-effect--white 
+                         link__hover-effect" href="https://github.com/Ayoubeleshi">GitHub</a>
+                         <a class=" footer__links link__hover-effect--white link__hover-effect" href="https://www.linkedin.com/in/ayoub-eleshi-8a801b1a3/">Linkedin</a>
+                         <a class=" footer__links link__hover-effect--white link__hover-effect" href="#" onclick="toggleModal()">Contact</a>
+                         <a class=" footer__links link__hover-effect--white link__hover-effect " href="#">Resume</a>
+                    </div>
+          
+                    <p class="white">Copyright c 2022 Ayoub Eleshi</p>
+    
+                </div>
+    
+            </div>
+</footer>
+ 
+align-items: center;
+ 
+padding: 32px;
+ 
+</div>
+ 
+</body>
+ 
+  flex: content;
+    display: flex;
+    align-items: center;
+ 
+color: #6415ff;
+ 
+.footer__row{
+    color: #6415ff;
+    background-color: #6415ff;
+    width: 100%;
+}
+ 
+                    <img class="footer__logo" src="./Black &amp; Beige Luxury Aesthetic Minimal Font Logo-2.png">
+
+ 
+    </footer>
+ 
+    <footer>
+ 
+lass="footer"
+ 
+ background-c
+ 
+            <img class="footer__logo" src="./Black &amp; Beige Luxury Aesthetic Minimal Font Logo-2.png">
+
+ 
+ </section>
+    <section>
+
+    </section>
+ 
+</div>
+ 
+ <section class="FANQ">
+        <div class="fanq_container">
+            <div>
+                <h5>FANQ</h5>
+                <H2>You have <span class="purple">Questions?</span></H2>
+                <p>And we have got answers to all of them. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    
+                </p>
+
+            </div>
+ 
+love-illustration.c759090fa833369ad6ffb6eb19cacb3e.svg
+ 
+//treact.owaiskhan.me/static/media/hero-screenshot-2.241aac1fbc66db29d873.png
+ 
+             <h2 class="h2__section2">Our Clients <span class="purple">Love Us.</span></h2>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur possimus perferendis perspiciatis ipsam unde repellat voluptatibus ab temporibus eveniet odio. Est illum beatae at eaque neque vel cumque distinctio iste.</p>
+                    <div>
+                        <i class="fas fa-star" aria-hidden="true"></i>
+                       <i class="fas fa-star" aria-hidden="true"></i>
+                       <i class="fas fa-star" aria-hidden="true"></i>
+                       <i class="fas fa-star" aria-hidden="true"></i>
+                       <i class="fas fa-star" aria-hidden="true"></i>
+                    </div>
+                    <div>
+                      <h4>Amazing User Experince</h4>
+                       <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto ipsum aliquam, eligendi illo aut, voluptas voluptatibus earum laboriosam iste eaque, fuga consequatur deleniti velit odio. A, asperiores neque. Quisquam, veritatis?</p>
+                    </div>
+                    <div class="women_wrapper">
+                       <img class="women_img"  src="https://treact.owaiskhan.me/static/media/love-illustration.c759090fa833369ad6ffb6eb19cacb3e.svg" alt="">
+                       <div>
+                          <h4 class="h4">Charlotte Hale</h4>
+                          <p class="p">Director, Delos inc.</p>
+                       </div>
+                    </div>
+        
+               </div>
+               <div class="img__container5">
+                <img class="img5" src="https://treact.owaiskhan.me/static/media/prototype-illustration.21bc4b3f.svg" alt="">
+             </div>
+            </div>
+ 
+                       <h5>TESTIMONIALS</h5>
+
+ 
+                <div class="container__right2">
+
+ 
+        <div class="row">
+
+ 
+            <div class="container_test">
+
+ 
+<h5>STEPS</h5>
+                 <h2 class="h2__section3">Easy to <span class="purple">Get Started.</span></h2>
+                 <ul class="heading__box">
+                     <li class="headings">
+                         <div class="number">01</div>
+                         <div class="heading_section">
+                            <h2>Register</h2>
+                            <p> create an acount with us using google or facebook.</p>
+                         </div>
+                     </li>
+                     <li class="headings">
+                         <div class="number">02</div>
+                         <div class="heading_section">
+                            <h2>Download</h2>
+                            <p> Browse and Download the template that you like from the marketplace</p>
+                         </div>
+                     </li>
+                     <li class="headings">
+                         <div class="number">03</div>
+                         <div class="heading_section">
+                            <h2>Run</h2>
+                            <p> Follow the instruction to setup the customize the template to your needs</p>
+                         </div>
+                     </li>
+                 </ul>
+ 
+            <dl class="SingleCol__FAQSContainer-sc-1i4qirp-5 koDYDN"><div class="SingleCol__FAQ-sc-1i4qirp-6 fSCvgS group"><dt class="SingleCol__Question-sc-1i4qirp-7 dUGOWw"><span class="SingleCol__QuestionText-sc-1i4qirp-8 lfzDNh">Are all the templates easily customizable ?</span><span class="SingleCol__QuestionToggleIcon-sc-1i4qirp-9 fySvpF" style="transform: none;"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg></span></dt><dd class="SingleCol__Answer-sc-1i4qirp-10 dssIHO" style="opacity: 0; height: 0px; margin-top: 0px;">Yes, they all are. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</dd></div><div class="SingleCol__FAQ-sc-1i4qirp-6 fSCvgS group"><dt class="SingleCol__Question-sc-1i4qirp-7 dUGOWw"><span class="SingleCol__QuestionText-sc-1i4qirp-8 lfzDNh">How long do you usually support an standalone template for ?</span><span class="SingleCol__QuestionToggleIcon-sc-1i4qirp-9 fySvpF" style="transform: none;"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg></span></dt><dd class="SingleCol__Answer-sc-1i4qirp-10 dssIHO" style="opacity: 0; height: 0px; margin-top: 0px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</dd></div><div class="SingleCol__FAQ-sc-1i4qirp-6 fSCvgS group"><dt class="SingleCol__Question-sc-1i4qirp-7 dUGOWw"><span class="SingleCol__QuestionText-sc-1i4qirp-8 lfzDNh">What kind of payment methods do you accept ?</span><span class="SingleCol__QuestionToggleIcon-sc-1i4qirp-9 fySvpF" style="transform: none;"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg></span></dt><dd class="SingleCol__Answer-sc-1i4qirp-10 dssIHO" style="opacity: 0; height: 0px; margin-top: 0px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</dd></div><div class="SingleCol__FAQ-sc-1i4qirp-6 fSCvgS group"><dt class="SingleCol__Question-sc-1i4qirp-7 dUGOWw"><span class="SingleCol__QuestionText-sc-1i4qirp-8 lfzDNh">Is there a subscribption service to get the latest templates ?</span><span class="SingleCol__QuestionToggleIcon-sc-1i4qirp-9 fySvpF" style="transform: none;"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg></span></dt><dd class="SingleCol__Answer-sc-1i4qirp-10 dssIHO" style="opacity: 0; height: 0px; margin-top: 0px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</dd></div><div class="SingleCol__FAQ-sc-1i4qirp-6 fSCvgS group"><dt class="SingleCol__Question-sc-1i4qirp-7 dUGOWw"><span class="SingleCol__QuestionText-sc-1i4qirp-8 lfzDNh">Are the templates compatible with the React ?</span><span class="SingleCol__QuestionToggleIcon-sc-1i4qirp-9 fySvpF" style="transform: none;"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg></span></dt><dd class="SingleCol__Answer-sc-1i4qirp-10 dssIHO" style="opacity: 0; height: 0px; margin-top: 0px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</dd></div><div class="SingleCol__FAQ-sc-1i4qirp-6 fSCvgS group"><dt class="SingleCol__Question-sc-1i4qirp-7 dUGOWw"><span class="SingleCol__QuestionText-sc-1i4qirp-8 lfzDNh">Do you really support Internet Explorer 11 ?</span><span class="SingleCol__QuestionToggleIcon-sc-1i4qirp-9 fySvpF" style="transform: none;"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg></span></dt><dd class="SingleCol__Answer-sc-1i4qirp-10 dssIHO" style="opacity: 0; height: 0px; margin-top: 0px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</dd></div></dl>
+
+ 
                         <img class="women_img"  src="https://treact.owaiskhan.me/static/media/love-illustration.c759090fa833369ad6ffb6eb19cacb3e.svg" alt="">
 
  
